@@ -1,6 +1,6 @@
 ### Hey, I am Barış 👋
 
-I am a student developing myself as a web developer
+🌱 I’m currently learning ...
 
 🖥️ As an information systems enthusiast, I relish addressing product challenges through innovative technical solutions. A collaborative team player, I am unwavering in my commitment to continuous learning and take pleasure in disseminating knowledge to my peers.
 
