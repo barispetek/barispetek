@@ -3,7 +3,7 @@
 
 - 🌱I'm currently learning.
 
-- ⚡Forever positive, perpetually enthusiastic 🚀**
+- ⚡Forever positive, perpetually enthusiastic 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
