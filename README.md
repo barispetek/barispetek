@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
+- 🌱 I’m currently learning **- 💻I'm a programmer who enjoys tackling product problems with technical solutions. I'm a team player who never stops learning and loves to share my knowledge.**
+
+- ⚡ Infused with perpetual positivity and an unyielding sense of enthusiasm 🚀 **- ⚡Forever positive, perpetually enthusiastic 🚀**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/barış petek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış petek" height="30" width="40" /></a>
