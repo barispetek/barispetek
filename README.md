@@ -1,3 +1,5 @@
+# Hi I'm Barış 👋
+
 # 💫 About Me:
 💻I'm a programmer who enjoys tackling product problems with technical solutions. I'm a team player who never stops learning and loves to share my knowledge.<br>🌱I'm currently learning.<br>⚡Forever positive, perpetually enthusiastic 🚀<br>
 
