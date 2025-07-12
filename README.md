@@ -1,7 +1,7 @@
 # Hey, I'm Barış 👋
 
 # 💫 About Me:
-💻I'm a programmer who enjoys tackling product problems with technical solutions. I'm a team player who never stops learning and loves to share my knowledge.<br>🌱I'm currently learning.<br>⚡Forever positive, perpetually enthusiastic 🚀<br>
+💻I'm a programmer who enjoys tackling product problems with technical solutions. I'm a team player who never stops learning and loves to share my knowledge.⚡Forever positive, perpetually enthusiastic 🚀<br>
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
